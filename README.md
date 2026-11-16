@@ -11,22 +11,29 @@ Most of the code from the worked example exists and only the missing like is wor
       public String toString() {return id + " - " + name;}
 
 ### Task 2 — /40
-**My mark:**
+**My mark:30**
 
 **Why I awarded this mark:**
+Created menu
+created the array list ,
+was storing the data individually ie array (0 to 2 would be 1 members details)
 
 ### Task 3 — /20
-**My mark:**
+**My mark:10**
 
 **Why I awarded this mark:**
+had to use additional logic previously to create and delete the data from the array,
+didnt create a exit program option correctly 
+the program would display member not found again and again (added logic to resolve)
 
-**Total self-assessed grade:** /100
+**Total self-assessed grade:** 70/100
 
 ## 2. Corrections and Improvements
 
 Describe two or three important problems you identified
 in your original code. Explain what you changed and
 why it works now.
+created a proper member.java member so the code can be seperated and made neet 
 
 ## 3. Reflection
 
