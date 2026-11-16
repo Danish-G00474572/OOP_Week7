@@ -60,7 +60,7 @@ The **review lab** is graded separately out of 20 marks:
 | Testing and demonstration | 4 |
 | Reflection | 2 |
 | **TOTAL** | **20** |
-
+ 
 You can recover **up to 30% of the marks you lost** in the original examination. The actual amount depends on your review lab grade. Your lecturer's examination grade, **not your self-awarded mark**, is used in the calculation.
 
 **Marks recovered = (100 − original exam mark) × 0.30 × (review lab mark ÷ 20)**
