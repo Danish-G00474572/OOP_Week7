@@ -26,6 +26,6 @@ public class Member {
     public void displayDetails(){
         System.out.println("Member ID: " +memberid);
         System.out.println("Name:" + name);
-        System.out.println("Age:"+ age);
+        System.out.println("Age: "+ age);
     }
 }
