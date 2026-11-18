@@ -16,14 +16,14 @@ Most of the code from the worked example exists and only the missing like is wor
 **Why I awarded this mark:**
 Created menu
 created the array list ,
-was storing the data individually ie array (0 to 2 would be 1 members details)
+was storing the data individually ie array (0 to 2 would be 1 members details) so i lost marks there
 
 ### Task 3 — /20
 **My mark:10**
 
 **Why I awarded this mark:**
-had to use additional logic previously to create and delete the data from the array,
-didnt create a exit program option correctly 
+most of the code worked file, it did require more lines of code than the optimal method
+Didn't create an exit program option correctly 
 the program would display member not found again and again (added logic to resolve)
 
 **Total self-assessed grade:** 70/100
@@ -33,18 +33,22 @@ the program would display member not found again and again (added logic to resol
 Describe two or three important problems you identified
 in your original code. Explain what you changed and
 why it works now.
-created a proper member.java member so the code can be seperated and made neet 
+created a proper member.java member so the code can be separated and made tidy 
+corrected logic too store and display data where previously data was soted as individual elements of a array list and the 3 fields of the user were indexed 0,1,2
 
 ## 3. Reflection
 
 **What did you understand during the examination
 but struggle to implement?**
+I understood the use of Array list but struggled to implement array list and had to use arrays and store data for each of the user as elements indexed separately
 
 **What was the most important thing you learned
 from correcting your code?**
+I learned how to implement array list
 
 **What would you do differently in your next
 coding test?**
+Use array list to mergae and manage the data for each of the users better 
 
 ---
 
